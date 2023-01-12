@@ -9,13 +9,13 @@ import javax.swing.JTextArea;
 public class Aaa extends JFrame{
 	public Aaa() {
 		
-		JButton btnNewButton = new JButton("ぼたん１");
+		JButton btnNewButton = new JButton("ああああああああああ");
 		getContentPane().add(btnNewButton, BorderLayout.WEST);
 		
 		JTextArea textArea = new JTextArea();
 		getContentPane().add(textArea, BorderLayout.CENTER);
 		
-		JButton btnNewButton_1 = new JButton("ぼたん２");
+		JButton btnNewButton_1 = new JButton("いいいいいい");
 		getContentPane().add(btnNewButton_1, BorderLayout.EAST);
 	}
 	
